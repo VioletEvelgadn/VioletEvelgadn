@@ -11,5 +11,5 @@
 </a>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=A+Not everyone can become a great artist, but a great artist can come from any corner.++%F0%9F%91%8B)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=A+Not+everyone+can+become+a+artist+but+a+great+artist+can+come+from+any+corner+Nanjing.++%F0%9F%91%8B)
 
