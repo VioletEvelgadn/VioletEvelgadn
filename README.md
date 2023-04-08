@@ -4,6 +4,13 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 </h3>
 
+<!-- ======================================= -->
+
+* 😄长风破浪会有时 直挂云帆济沧海
+* 👯Violet me on [哔哩哔哩](https://space.bilibili.com/1719352370?spm_id_from=333.788.0.0), [掘金](https://juejin.cn/user/1533144281127661) or [知乎](https://www.zhihu.com/people/an-ying-37-68)
+
+<!-- https://readme-typing-svg.demolab.com/demo/ -->
+
 <a href="https://github.com/VioletEvelgadn">
   <div align="right" >
     <img align="right" src="https://count.getloli.com/get/@:tinygeeker?theme=rule34" alt="VioletEvelgadn" />
