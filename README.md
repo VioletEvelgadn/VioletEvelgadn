@@ -12,8 +12,6 @@
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
 <br/>
-<br/>
-<br/>
 
 <a href="https://github.com/VioletEvelgadn">
   <div align="right" >
